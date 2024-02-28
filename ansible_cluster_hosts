@@ -1,8 +1,8 @@
 [master]
-ec2-52-28-86-64.eu-central-1.compute.amazonaws.com
+ec2-3-122-253-167.eu-central-1.compute.amazonaws.com
 
 [worker]
-ec2-3-75-194-190.eu-central-1.compute.amazonaws.com
+ec2-3-76-123-51.eu-central-1.compute.amazonaws.com
 
 [cluster:children]
 master
